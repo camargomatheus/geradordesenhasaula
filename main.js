@@ -48,17 +48,7 @@ body{
     font-family: var(--roboto-mono);
     font-size: 40px;
     width: 70%;
-}
-
-#campo-senha:focus{
-    outline: none;
-}
-
-.conteudo{
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
+…
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
